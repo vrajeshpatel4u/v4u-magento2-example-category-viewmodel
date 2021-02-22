@@ -1,7 +1,5 @@
 <?php
-/**
- * Created By : Rohan Hapani
- */
+
 namespace V4U\ViewModel\ViewModel;
 
 class CategoryInfo implements \Magento\Framework\View\Element\Block\ArgumentInterface
